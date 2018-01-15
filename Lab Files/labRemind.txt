@@ -1,0 +1,20 @@
++-------------+
+|  REMINDERS  |
++-------------+
+[]Submit on time.
+[]Include comments in your scripts to enhance readability.
+[]Prettify outputs.
+[]Save py scripts following the filenaming before running it (F5). Otherwise the history will show untitled0.py in  runfile().
+[]Follow filenaming, submissions will NOT be checked if naming convention is not followed.
+[]Include name, course & date in scripts and plots:
+""" 
+Ruiz, R.S.
+CPE451L
+8September2017
+"""
+> title("Figure 334a. Plot of $y(x)=e^x -e^{-2x} +1$\n RSLRuiz CPE451L Sept. 8, 2017");
+[]At the end of the lab, upload all scripts, figures, iPython console (html), and history.py
+[]Upload all scripts ran but not required! The commands in the scripts could not be seen in the history.
+[]Scripts uploaded but not executed or used will NOT be checked.
+
+UPLOAD ALL FILES to classroom.google.com

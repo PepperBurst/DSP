@@ -1,0 +1,36 @@
+LAB3 FILES
+C:\CPE451L\Lab3
+Replace the tilde(~) with your classID:
+Include name, course code and date in plots(title) & scripts.
+
+Exercises
+3.2.1.1
+3.2.1.2 (2 scripts, 4 plots)
+    ~3212d.py
+    ~3212i.py
+    ~3212ad.png
+    ~3212bd.png
+    ~3212ai.png
+    ~3212bi.png
+
+Upload:
+2 scripts, 4 plots, ~3.html, and history.py
+
+LAB3b FILES
+C:\CPE451L\Lab3
+Replace the tilde(~) with your classID:
+
+~3.py
+    s1(..)	s2(..)
+
+~3312a.png	~3312b.png
+~3312c.png	~3312d.png
+
+~341.txt
+
+~351.png
+~352.png
+
+(2 functions in 1 module, 6 plots, 1 txt, ~3b.html, and history.py)
+
+Upload all worked files to google classroom

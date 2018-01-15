@@ -1,0 +1,34 @@
+LAB4 FILES
+C:\CPE451L\Lab4
+Replace the tilde(~) with your classID:
+Include name, course code and date in plots(title) & scripts.
+
+~4.html, history.py
+
+~42111.png
+~42112.png
+~42113.png
+~42114.png
+~42115.png
+
+~42121.png
+~42122.png
+~42123.png
+~42124.png
+~42125.png
+~4213.txt 
+
+(10 figures, txt, html & history.py) 
+
+~4b.html, history.py 
+
+~4221.jpg
+~4222.jpg
+~4223.jpg
+~4224.jpg
+~422.txt
+
+(4 figures, txt, html & history.py)
+
+(Total files: 14 plots, 2 txt, 2html and 2 history.py)
+Upload all worked files to Google classroom

@@ -1,0 +1,34 @@
+Lab 1
+-------
+> cd ('C:/CPE451L')
+
+LAB1 FILES
+~ -> ClassID e.g. aRuiz
+
+
+~1292.py aRuiz1292.py
+~1293.py
+(2 scripts & history.py)
+
+-------
+Lab 1b
+-------
+> cd ('C:/CPE451L')
+> pwd()
+Replace the tilde(~) with your classID:
+ 
+~1296.py
+~1297.py
+
+~1b.html (in-line png)
+
+(2 scripts, 1 html(in-line png), & history.py)
+
+Include name, course & date in plots and scripts:
+> title('Figure 1283. Plot of y(x)=e^{-0.5x}A sin(wx) \n Ruiz, R.S. CPE451L 29August2017');
+
+% Ruiz, R.S.
+% CPE451L
+% 29August2017
+
+UPLOAD ALL FILES to classroom.google.com
