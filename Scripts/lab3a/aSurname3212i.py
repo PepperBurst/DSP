@@ -1,6 +1,6 @@
 import numpy as np
-
-def ex3212i(x):
+#This is the script for the integrator
+def inte(x):
     y = np.zeros(len(x))
     for i in range(1, len(x)):
         w = y[i-1]
@@ -8,7 +8,9 @@ def ex3212i(x):
     return y
 
 if __name__ == '__main__':
-    # x = np.arange(0, 10)
-    # y = ex3212i(x)
+    # n = np.arange(0, 10)
+    print('3212')
+    # n
+    # y = inte(x)
     # print(x)
     # print(y)

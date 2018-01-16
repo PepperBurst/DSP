@@ -15,16 +15,17 @@ x.append(0.8*(n[1]==0))
 x.append(1.5*(n[2]==222))
 x.append(3.5*(n[3]==-7))
 
-f = []
-ax = []
-f.append(plt.figure())
-ax.append(f[-1].add_subplot(111))
-ax[-1].stem(n[0], x[0])
-ax[-1].set_xlabel('n')
-ax[-1].set_ylabel('x(n)')
+# f = []
+# f_, (ax1, ax2) = plt.subplots(1, 2)
+# f.append(f_)
+# ax1.stem(n[0], x[0])
+# plt.stem(n[0], x[0])
+# ax1.set_xlabel('n')
+# ax1.set_ylabel('x(n)')
 
 
-f.pop().show()
+# plt.show()
+# f.pop().show()
 input()
 # plt.stem(n[0], x[0])
 # plt.grid()
