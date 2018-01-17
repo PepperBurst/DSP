@@ -58,7 +58,7 @@ def plotlab3b(code, date):
     n = np.arange(0, 128 + 1)
     x = 1*(n==0)
     title = title.replace('3312d', '351', 1)
-    title = title.replace('s1(s2(n))', 'y(n) + 0.8y(n − 2) = 0.2x(n) + 0.4x(n − 1) + 0.2x(n − 2)')
+    title = title.replace('s1(s2(n))', '\ny(n) + 0.8y(n − 2) = 0.2x(n) + 0.4x(n − 1) + 0.2x(n − 2)')
     f, axarr = plt.subplots(2)
     f.suptitle(title)
     axarr[0].stem(n, x)
