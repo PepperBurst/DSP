@@ -1,0 +1,6 @@
+The computed sum when length 21 is used,
+(0 to 20) is
+8.90581010868487640791
+which is the same as our output in python
+but rounded off to 2 decimal places in
+the figure for ease of viewing
