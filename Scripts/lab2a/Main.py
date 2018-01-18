@@ -53,10 +53,10 @@ def plot2311(code, date):
 
 def plotlab2a(code, date):
     plot2211(code, date)
-    plot2213(code, date)
-    plot2311(code, date)
+    # plot2213(code, date)
+    # plot2311(code, date)
 
 if __name__ == '__main__':
-    code = 'RJTRAMOS'
-    date = '1/17/2018'
+    code = 'AMETRAN'
+    date = '1/18/2018'
     plotlab2a(code, date)

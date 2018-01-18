@@ -1,0 +1,5 @@
+42121 - high-pass
+42122 - low-pass
+42123 - band-pass
+42124 - band-stop
+42125 - low-pass

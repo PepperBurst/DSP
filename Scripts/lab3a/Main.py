@@ -17,7 +17,7 @@ def plotlab3a(code, date):
     title += 'Plot of xa(n) = δ(n) − δ(n − 7)\n'
     title += code + ' ' + date
     f, axarr = plt.subplots(2)
-    f.suptitle('')
+    f.suptitle(title)
     axarr[0].stem(n, x[0])
     axarr[1].stem(n, diffY[0])
     axarr[0].grid()
