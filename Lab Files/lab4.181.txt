@@ -16,9 +16,9 @@ Include name, course code and date in plots(title) & scripts.
 ~42123.png
 ~42124.png
 ~42125.png
-~4213.txt 
+~4213.txt
 
-(10 figures, txt, html & history.py) 
+(10 figures, txt, html & history.py)
 
 ~4b.html, history.py 
 

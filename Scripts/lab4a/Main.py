@@ -55,7 +55,7 @@ def plot4212(code, date):
     title[-1] = title[-1].replace('y(n)', 'y(n) - 1.8cos(π/16)y(n-1) + 0.81y(n-2)')
     title[-1] = title[-1].replace('½[x(n) + x(n-2)]', 'x(n) + ½x(n-1)')
     xtk = np.linspace(0, np.pi, 5)
-    xtkLbl = ('0', '¼π', '½π', '¾π', '2π')
+    xtkLbl = ('0', '¼π', '½π', '¾π', 'π')
     for i in range(len(b)):
         w, h = sig.freqz(b[i], a[i], whole=False)
         f, (ax1, ax2) = plt.subplots(2)
