@@ -106,7 +106,7 @@ def plot271(code, date):
 
 def plotlab3b(code, date, path):
     # plot2312(code, date)
-    # plot241(code, date)
+    plot241(code, date)
     # plot2511(code, date)
     # plot261(code, date, path)
     # plot271(code, date)
