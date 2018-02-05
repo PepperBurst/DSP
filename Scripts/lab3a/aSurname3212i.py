@@ -2,9 +2,12 @@ import numpy as np
 #This is the script for the integrator
 def inte(x):
     y = np.zeros(len(x))
-    for i in range(1, len(x)):
-        w = y[i-1]
-        y[i] = w + x[i]
+    for i in range(0, len(x)):
+        if i is 0:
+            y[0] = x[0]
+        else:
+            w = y[i-1]
+            y[i] = w + x[i]
     return y
 
 if __name__ == '__main__':

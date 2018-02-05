@@ -53,8 +53,8 @@ def plot2311(code, date):
 
 def plotlab2a(code, date):
     plot2211(code, date)
-    # plot2213(code, date)
-    # plot2311(code, date)
+    plot2213(code, date)
+    plot2311(code, date)
 
 if __name__ == '__main__':
     code = 'AMETRAN'
